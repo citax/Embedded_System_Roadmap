@@ -8,7 +8,8 @@ Bu kod deposu gömülü sistemler üzerine çalışmak isteyenler için, kişise
 
 Her bölümün sonunda bırakacağım kaynaklara lütfen kendiniz de zaman ayırarak bakınız. Bırakılan kaynaklar dışında kendi kaynaklarınızı da lütfen edininiz. Eksik gördüğünüz veya eklense ne de tatlı olur dediğiniz şeyleri lütfen eklemekten çekinmeyiniz!
 
-    Lütfen ama lütfen Tutorial girdabına yakalanmayınız. En güzel öğrenme uygulamalı öğrenmedir. Giriş seviyesine ulaştıktan sonra direkt projelere dalınız. Unutmayın sizden önceki herkes bu işi gerçekten bir şey yaparak öğrendiler. 
+    Lütfen ama lütfen Tutorial girdabına yakalanmayınız. En güzel öğrenme uygulamalı öğrenmedir. 
+    Giriş seviyesine ulaştıktan sonra direkt projelere dalınız. Unutmayın sizden önceki herkes bu işi gerçekten bir şey yaparak öğrendiler. 
     
 [! George Hotz Tavsiyesi !](https://www.youtube.com/watch?v=NjYICpXJ03M)
 
@@ -41,7 +42,8 @@ Lütfen yazılım desteği oldukça iyi olan ve her şeyin önünüze altın tep
 
 .
 
-     Başlangıç için bu C dili ve Mikroişlemci bilgisi edinilmelidir. Bundan sonra yazılımsal konseptler ve ayrıntılar öğrenilmelidir.
+     Başlangıç için bu C dili ve Mikroişlemci bilgisi edinilmelidir. 
+     Bundan sonra yazılımsal konseptler ve ayrıntılar öğrenilmelidir.
 
 
 >Devam edecek.. 
