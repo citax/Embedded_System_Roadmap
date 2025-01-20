@@ -1,6 +1,7 @@
-# Embedded System Roadmap
 
-## Gömülü Yazılım Yol Haritası
+# Gömülü Yazılım Yol Haritası
+
+## Embedded System Roadmap
 
 > Gömülü yazılım yol haritası `TR`
 
